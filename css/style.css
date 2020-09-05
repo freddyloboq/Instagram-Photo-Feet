@@ -1,0 +1,54 @@
+body {
+    background-color: #b6b6b6;
+    margin: 0;
+}
+
+.instagram-header {
+    width: 700px;
+    margin: auto;
+}
+
+.post-container {
+    width: 700px;
+    margin: auto;
+}
+
+header {
+    background-color: white;
+    padding: 14px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.post {
+    margin-top: 70px;
+    background-color: white;
+    border-radius: 6px;
+}
+
+.post-images img {
+    width: 100%;
+}
+
+.post-title h3,
+.post-title .post-date p,
+.post-paragraph {
+    padding: 20px;
+}
+
+.post-title h3 {
+    float: left;
+}
+
+.post-title p {
+    color: #a5a5a5;
+    font-size: 18px;
+    float: right;
+}
+
+.post-paragraph {
+    font-size: 18px;
+
+}
